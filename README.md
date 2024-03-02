@@ -1,3 +1,3 @@
 # calculator
 <br>
-live link : https://Jomonh.github.io/calculator/
+live link : https://Jomonhh.github.io/calculator/
